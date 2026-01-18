@@ -5,12 +5,12 @@
 Остальные задачи включают нахождение макс. палиндрома.
 
 ## Задачи:
-#### [Задача 1. Сортировка вставкой](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab1/task1)
-#### [Задача 2. Сортировка вставкой +](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab1/task2)
-#### [Задача 3. Сортировка вставкой по убыванию](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab1/task3)
-#### [Задача 4. Линейный поиск](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab1/task4)
-#### [Задача 7. Знакомство с жителями Сортлэнда](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab1/task7)
-#### [Задача 10. Палиндром](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab1/task10)
+#### [Задача 1. Сортировка вставкой]
+#### [Задача 2. Сортировка вставкой +]
+#### [Задача 3. Сортировка вставкой по убыванию]
+#### [Задача 4. Линейный поиск]
+#### [Задача 7. Знакомство с жителями Сортлэнда]
+#### [Задача 10. Палиндром]
 
 ## Структура проекта
 - `src/` — исходный код программы.
