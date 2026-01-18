@@ -1,5 +1,5 @@
 # Лабораторные работы по алгоритмам и структурам данных
-## Абакар Иссака Малли 464893
+## Бен Шамех Абделазиз 408076
 - [ ] [Лабораторная работа №0. Введение](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab0)
 - [ ] [Лабораторная работа №1 Сортировка вставками, выбором, пузырьковая](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab1)
 - [ ] [Лабораторная работа №2: Сортировка слиянием. Метод декомпозиции](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab2)
