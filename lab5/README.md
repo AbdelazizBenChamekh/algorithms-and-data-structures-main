@@ -5,10 +5,10 @@
 виду сортировки за n log n: пирамидальной (heapsort)
 
 ## Задачи:
-#### [Задача 1. Куча ли?](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab5/task1)
-#### [Задача 2. Высота дерева](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab5/task2)
-#### [Задача 4. Построение пирамиды](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab5/task4)
-#### [Задача 6. Очередь с приоритетами](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab5/task6)
+#### [Задача 1. Куча ли?]
+#### [Задача 2. Высота дерева]
+#### [Задача 4. Построение пирамиды]
+#### [Задача 6. Очередь с приоритетами]
 
 
 ## Структура проекта
