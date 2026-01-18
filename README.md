@@ -1,13 +1,13 @@
 # Лабораторные работы по алгоритмам и структурам данных
 ## Бен Шамех Абделазиз 408076
-- [ ] [Лабораторная работа №0. Введение](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab0)
-- [ ] [Лабораторная работа №1 Сортировка вставками, выбором, пузырьковая](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab1)
-- [ ] [Лабораторная работа №2: Сортировка слиянием. Метод декомпозиции](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab2)
-- [ ] [Лабораторная работа №3: Быстрая сортировка, сортировки за линейное время](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab3)
-- [ ] [Лабораторная работа №4: Стек, очередь, связанный список](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4)
-- [ ] [Лабораторная работа №5: Деревья. Пирамида, пирамидальная сортировка. Очередь с приоритетами.](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab5)
-- [ ] [Лабораторная работа №6: Хеширование. Хеш-таблицы](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab6)
-- [ ] [Лабораторная работа №7: Динамическое программирование №1](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab7)
+- [ ] [Лабораторная работа №0. Введение](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab0)
+- [ ] [Лабораторная работа №1 Сортировка вставками, выбором, пузырьковая](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab1)
+- [ ] [Лабораторная работа №2: Сортировка слиянием. Метод декомпозиции](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab2)
+- [ ] [Лабораторная работа №3: Быстрая сортировка, сортировки за линейное время](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab3)
+- [ ] [Лабораторная работа №4: Стек, очередь, связанный список](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab4)
+- [ ] [Лабораторная работа №5: Деревья. Пирамида, пирамидальная сортировка. Очередь с приоритетами.](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab5)
+- [ ] [Лабораторная работа №6: Хеширование. Хеш-таблицы](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab6)
+- [ ] [Лабораторная работа №7: Динамическое программирование №1](https://github.com/AbdelazizBenChamekh/algorithms-and-data-structures-main/tree/main/lab7)
 
 ## Цели и задачи
 - Изучить основные команды Git                                                                                                  
