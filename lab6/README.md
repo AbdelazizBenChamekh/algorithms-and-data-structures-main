@@ -4,11 +4,11 @@
 Лабораторная работа посвящена ознакомлению с такими понятиями, как множество, словари, хеш-таблицы и хеш-функции
 
 ## Задачи:
-#### [Задача 1. Множество](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab6/task1)
-#### [Задача 2. Телефонная книга](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab6/task2)
-#### [Задача 4. Прошитый ассоциативный массив](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab6/task4)
-#### [Задача 5. Выборы в США](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab6/task5)
-#### [Задача 7. Драгоценные камни](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab6/task7)
+#### [Задача 1. Множество]
+#### [Задача 2. Телефонная книга]
+#### [Задача 4. Прошитый ассоциативный массив]
+#### [Задача 5. Выборы в США]
+#### [Задача 7. Драгоценные камни]
 
 
 ## Структура проекта
