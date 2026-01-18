@@ -4,12 +4,12 @@
 Лабораторная работа посвящена методу Разделяй и властвуй, быстрой сортировке, а также сортировкам за линейное время
 
 ## Задачи:
-#### [Задача 1. Улучшение Quick sort](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab3/task1)
-#### [Задача 2. Анти-quick sort](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab3/task2)
-#### [Задача 4. Точки и отрезки](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab3/task4)
-#### [Задача 6. Сортировка целых чисел](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab3/task6)
-#### [Задача 8. K ближайших точек к началу координат](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab3/task8)
-#### [Задача 9. Ближайшие точки](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab3/task9)
+#### [Задача 1. Улучшение Quick sort]
+#### [Задача 2. Анти-quick sort]
+#### [Задача 4. Точки и отрезки]
+#### [Задача 6. Сортировка целых чисел]
+#### [Задача 8. K ближайших точек к началу координат]
+#### [Задача 9. Ближайшие точки]
 
 ## Структура проекта
 - `src/` — исходный код программы.
