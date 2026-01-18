@@ -5,10 +5,10 @@
 программирование
 
 ## Задачи:
-#### [Задача 1. Обмен монет](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab7/task1)
-#### [Задача 2. Примитивный калькулятор](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab7/task2)
-#### [Задача 3. Редакционное расстояние](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab7/task3)
-#### [Задача 5. Наибольшая общая подпоследовательность трех последовательностей](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab7/task5)
+#### [Задача 1. Обмен монет]
+#### [Задача 2. Примитивный калькулятор]
+#### [Задача 3. Редакционное расстояние]
+#### [Задача 5. Наибольшая общая подпоследовательность трех последовательностей]
 
 
 ## Структура проекта
