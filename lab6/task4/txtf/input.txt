@@ -1,0 +1,8 @@
+7
+put abakar g
+delete abakar
+put abakar g
+put abakar g
+next abakar
+put tima s
+next abakar
