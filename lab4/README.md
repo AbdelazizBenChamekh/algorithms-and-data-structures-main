@@ -4,13 +4,13 @@
 Лабораторная работа посвящена методу Разделяй и властвуй, быстрой сортировке, а также сортировкам за линейное время
 
 ## Задачи:
-#### [Задача 2. Очередь](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4/task2)
-#### [Задача 3. Скобочная последовательность. Версия 1](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4/task3)
-#### [Задача 6. Очередь с минимумом](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4/task6)
-#### [Задача 7. Максимум в движущейся последовательности](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4/task7)
-#### [Задача 10. Очередь в пекарню](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4/task10)
-#### [Задача 13.1. Стек на основе связного списка](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4/task13_1)
-#### [Задача 13.2. Очередь на основе связного списка](https://github.com/merab235/algorithms-and-data-structures/tree/main/lab4/task13_2)
+#### [Задача 2. Очередь]
+#### [Задача 3. Скобочная последовательность. Версия 1]
+#### [Задача 6. Очередь с минимумом]
+#### [Задача 7. Максимум в движущейся последовательности]
+#### [Задача 10. Очередь в пекарню]
+#### [Задача 13.1. Стек на основе связного списка]
+#### [Задача 13.2. Очередь на основе связного списка]
 
 ## Структура проекта
 - `src/` — исходный код программы.
